@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "John Vibescode",
+    "Name": "Brio Vibed",
+    "InternalName": "BrioVibed",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Brio with the light crashing fixed and a few other tweaks.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/JohnVibescode/brio-vibed",
+    "Tags": ["gpose", "brio", "posing", "animation"],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
+    "Punchline": "Enhanced GPosing! A utility for improving the G-Pose experience in FFXIV.",
+    "DownloadLinkInstall": "https://github.com/JohnVibescode/brio-vibed/releases/latest/download/BrioVibed.zip",
+    "DownloadLinkUpdate": "https://github.com/JohnVibescode/brio-vibed/releases/latest/download/BrioVibed.zip",
+    "DownloadLinkTesting": "https://github.com/JohnVibescode/brio-vibed/releases/latest/download/BrioVibed.zip"
+  }
+]
